@@ -2,7 +2,6 @@
 
 An interactive knowledge graph for Jira — visualize ticket dependencies, epics, blockers, and relationships as a navigable graph with AI-powered semantic edge detection.
 
-![JiraGraph screenshot](jiragraph-with-banner.png)
 
 ## What it does
 
